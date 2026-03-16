@@ -6,21 +6,18 @@ This repository contains the implementation of the research paper:
 
 ## Dataset
 
-The study uses the publicly available Bone Tumor X-ray Radiograph Dataset (BTXRD).
+The study uses the publicly available **Bone Tumor X-ray Radiograph Dataset (BTXRD)**.
 
-Dataset link:
-https://figshare.com/articles/dataset/A_Radiograph_Dataset_for_the_Classification_Localization_and_Segmentation_of_Primary_Bone_Tumors/27865398
+Dataset link:  
+[BTXRD Dataset on Figshare](https://figshare.com/articles/dataset/A_Radiograph_Dataset_for_the_Classification_Localization_and_Segmentation_of_Primary_Bone_Tumors/27865398)
 
+Archived repository (Zenodo DOI):  
+[Zenodo Archive](https://doi.org/10.5281/zenodo.19048395)
 ## Synthetic Data
 
 To address class imbalance, additional malignant samples were generated using data augmentation techniques.
 
-## Repository Structure
 
-code/ – model training and evaluation scripts  
-preprocessing/ – dataset preprocessing  
-models/ – attention-based model architectures  
-results/ – experimental results
 
 ## Requirements
 
